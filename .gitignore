@@ -1,0 +1,14 @@
+.class
+HELP.md
+!**/src/main/**/target/
+!**/src/test/**/target/
+target/
+.classpath 
+/.mvn/
+/mvnw
+mvnw.cmd
+/mvnw/
+/.mvn/wrapper/maven-wrapper.properties
+!**/mvnw/
+!**/.settings/
+!**/.project
