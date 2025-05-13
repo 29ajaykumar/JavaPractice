@@ -9,7 +9,8 @@ target/
 mvnw.cmd
 /mvnw/
 /.mvn/wrapper/maven-wrapper.properties
-!**/mvnw/
-!**/.settings/
-!**/.project
+**/mvnw/
+**/.settings/
+**/.project
 /.metadata/
+**/.gitignore/
